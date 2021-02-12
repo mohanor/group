@@ -1,0 +1,80 @@
+@media (min-width: 600px) {
+
+}
+
+
+@media (min-width: 768px) {
+
+}
+
+
+@media (min-width: 992px) {
+
+}
+
+
+@media (min-width: 1200px) {
+    .header {
+        background-position: center;
+    }
+
+    h1 {
+        font-size: 63px;
+        padding: 20px 30px;
+    }
+
+    .header__link {
+        font-size: 20px;
+    }
+
+    .header--desktop {
+        display: block;
+    }
+
+    .square {
+        display: none;
+    }
+
+    .header__div2 {
+        display: none;
+    }
+
+    .postive {
+        width: 400px;
+        margin-left: 25px;
+    }
+
+    .section_1 {
+        display: flex;
+    }
+
+    .section_1 div {
+        flex: .5;
+    }
+
+    .who {
+        padding: 30px;
+    }
+
+    .who h2 {
+        text-align: left;
+    }
+
+    .who p {
+        text-align: left;
+    }
+
+    .maps {
+        display: flex;
+        margin: 100px auto;
+    }
+
+    .iframe {
+        flex: .5;
+    }
+
+    .center-location {
+        padding: 172px 100px;
+    }
+    
+}
